@@ -4,7 +4,7 @@ Real-time recognition of the ASL alphabet (A–Z), digits (0–9), and space, fr
 
 This is the upgrade of [Sign Language Interpreter v1](https://github.com/sarasayed7/sign-language-v1) (YOLOv5-based, 6 gestures), built as a final year engineering project at the University of Mumbai. Full methodology and results are documented in the accompanying research paper and final year report.
 
-![Confusion matrix](demo/confusion_matrix_shade.png)
+![Confusion matrix](demo/conf_matrix2.png)
 
 ## How it works
 
